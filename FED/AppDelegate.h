@@ -11,5 +11,8 @@
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
-
+@property (nonatomic, strong) NSString *transfer1;
+@property (nonatomic,readwrite)bool _checkString;
+@property(nonatomic,strong) NSString *StringAddFood;
+@property(nonatomic,strong) NSString *StringAddNameFood;
 @end

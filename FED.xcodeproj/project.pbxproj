@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BE04B4EF185C82150044FDEE /* CustomTable.xib in Resources */ = {isa = PBXBuildFile; fileRef = BE04B4EC185C82150044FDEE /* CustomTable.xib */; };
+		BE04B4F0185C82150044FDEE /* CustomTableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BE04B4EE185C82150044FDEE /* CustomTableCell.m */; };
+		BE04B4FD185CC8AC0044FDEE /* FED_bg_AddFood.png in Resources */ = {isa = PBXBuildFile; fileRef = BE04B4F1185CC8AC0044FDEE /* FED_bg_AddFood.png */; };
+		BE04B4FE185CC8AC0044FDEE /* FED_bg_Dic.png in Resources */ = {isa = PBXBuildFile; fileRef = BE04B4F2185CC8AC0044FDEE /* FED_bg_Dic.png */; };
+		BE04B4FF185CC8AC0044FDEE /* FED_bg01.png in Resources */ = {isa = PBXBuildFile; fileRef = BE04B4F3185CC8AC0044FDEE /* FED_bg01.png */; };
+		BE04B501185CC8AC0044FDEE /* FED_buttonback.png in Resources */ = {isa = PBXBuildFile; fileRef = BE04B4F5185CC8AC0044FDEE /* FED_buttonback.png */; };
+		BE04B502185CC8AC0044FDEE /* FED_buttonman01.png in Resources */ = {isa = PBXBuildFile; fileRef = BE04B4F6185CC8AC0044FDEE /* FED_buttonman01.png */; };
+		BE04B503185CC8AC0044FDEE /* FED_buttonman02.png in Resources */ = {isa = PBXBuildFile; fileRef = BE04B4F7185CC8AC0044FDEE /* FED_buttonman02.png */; };
+		BE04B504185CC8AC0044FDEE /* FED_buttonplus01.png in Resources */ = {isa = PBXBuildFile; fileRef = BE04B4F8185CC8AC0044FDEE /* FED_buttonplus01.png */; };
+		BE04B505185CC8AC0044FDEE /* FED_buttonplus02.png in Resources */ = {isa = PBXBuildFile; fileRef = BE04B4F9185CC8AC0044FDEE /* FED_buttonplus02.png */; };
+		BE04B506185CC8AC0044FDEE /* FED_buttonwoman01.png in Resources */ = {isa = PBXBuildFile; fileRef = BE04B4FA185CC8AC0044FDEE /* FED_buttonwoman01.png */; };
+		BE04B507185CC8AC0044FDEE /* FED_buttonwoman02.png in Resources */ = {isa = PBXBuildFile; fileRef = BE04B4FB185CC8AC0044FDEE /* FED_buttonwoman02.png */; };
+		BE04B508185CC8AC0044FDEE /* FED_splshScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = BE04B4FC185CC8AC0044FDEE /* FED_splshScreen.png */; };
 		BE08919C185B221300DB03D6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BE08919B185B221300DB03D6 /* Foundation.framework */; };
 		BE08919E185B221300DB03D6 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BE08919D185B221300DB03D6 /* CoreGraphics.framework */; };
 		BE0891A0185B221300DB03D6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BE08919F185B221300DB03D6 /* UIKit.framework */; };
@@ -21,6 +34,17 @@
 		BE0891BD185B221300DB03D6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BE08919F185B221300DB03D6 /* UIKit.framework */; };
 		BE0891C5185B221300DB03D6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BE0891C3185B221300DB03D6 /* InfoPlist.strings */; };
 		BE0891C7185B221300DB03D6 /* FEDTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BE0891C6185B221300DB03D6 /* FEDTests.m */; };
+		BE0891D2185B252100DB03D6 /* Dic Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = BE0891D1185B252100DB03D6 /* Dic Controller.m */; };
+		BE0891D8185B473800DB03D6 /* Add Food.m in Sources */ = {isa = PBXBuildFile; fileRef = BE0891D7185B473800DB03D6 /* Add Food.m */; };
+		BE0891DC185B4FA800DB03D6 /* BG_Dic.png in Resources */ = {isa = PBXBuildFile; fileRef = BE0891DB185B4FA800DB03D6 /* BG_Dic.png */; };
+		BEA34EB4185D9FB8006BFDE9 /* FED_thermometerEDIT.png in Resources */ = {isa = PBXBuildFile; fileRef = BEA34EB3185D9FB8006BFDE9 /* FED_thermometerEDIT.png */; };
+		BEA34EB7185D9FC5006BFDE9 /* FED_buttonrandom.png in Resources */ = {isa = PBXBuildFile; fileRef = BEA34EB5185D9FC5006BFDE9 /* FED_buttonrandom.png */; };
+		BEA34EB8185D9FC5006BFDE9 /* FED_buttonTEXTplus.png in Resources */ = {isa = PBXBuildFile; fileRef = BEA34EB6185D9FC5006BFDE9 /* FED_buttonTEXTplus.png */; };
+		BEA34EBA185D9FCF006BFDE9 /* FED_buttonplus.png in Resources */ = {isa = PBXBuildFile; fileRef = BEA34EB9185D9FCF006BFDE9 /* FED_buttonplus.png */; };
+		BEA34EBC185D9FD8006BFDE9 /* FED_buttonEDIT.png in Resources */ = {isa = PBXBuildFile; fileRef = BEA34EBB185D9FD8006BFDE9 /* FED_buttonEDIT.png */; };
+		BEA34EBE185D9FE4006BFDE9 /* FED_boxcal.png in Resources */ = {isa = PBXBuildFile; fileRef = BEA34EBD185D9FE4006BFDE9 /* FED_boxcal.png */; };
+		BEA34EC1185DA000006BFDE9 /* FED_bgdictionary.png in Resources */ = {isa = PBXBuildFile; fileRef = BEA34EBF185DA000006BFDE9 /* FED_bgdictionary.png */; };
+		BEA34EC2185DA000006BFDE9 /* FED_bgPLUSpage.png in Resources */ = {isa = PBXBuildFile; fileRef = BEA34EC0185DA000006BFDE9 /* FED_bgPLUSpage.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +58,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BE04B4EC185C82150044FDEE /* CustomTable.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomTable.xib; sourceTree = "<group>"; };
+		BE04B4ED185C82150044FDEE /* CustomTableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomTableCell.h; sourceTree = "<group>"; };
+		BE04B4EE185C82150044FDEE /* CustomTableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomTableCell.m; sourceTree = "<group>"; };
+		BE04B4F1185CC8AC0044FDEE /* FED_bg_AddFood.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_bg_AddFood.png; path = "UI project FED/FED_bg_AddFood.png"; sourceTree = SOURCE_ROOT; };
+		BE04B4F2185CC8AC0044FDEE /* FED_bg_Dic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_bg_Dic.png; path = "UI project FED/FED_bg_Dic.png"; sourceTree = SOURCE_ROOT; };
+		BE04B4F3185CC8AC0044FDEE /* FED_bg01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_bg01.png; path = "UI project FED/FED_bg01.png"; sourceTree = SOURCE_ROOT; };
+		BE04B4F5185CC8AC0044FDEE /* FED_buttonback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_buttonback.png; path = "UI project FED/FED_buttonback.png"; sourceTree = SOURCE_ROOT; };
+		BE04B4F6185CC8AC0044FDEE /* FED_buttonman01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_buttonman01.png; path = "UI project FED/FED_buttonman01.png"; sourceTree = SOURCE_ROOT; };
+		BE04B4F7185CC8AC0044FDEE /* FED_buttonman02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_buttonman02.png; path = "UI project FED/FED_buttonman02.png"; sourceTree = SOURCE_ROOT; };
+		BE04B4F8185CC8AC0044FDEE /* FED_buttonplus01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_buttonplus01.png; path = "UI project FED/FED_buttonplus01.png"; sourceTree = SOURCE_ROOT; };
+		BE04B4F9185CC8AC0044FDEE /* FED_buttonplus02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_buttonplus02.png; path = "UI project FED/FED_buttonplus02.png"; sourceTree = SOURCE_ROOT; };
+		BE04B4FA185CC8AC0044FDEE /* FED_buttonwoman01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_buttonwoman01.png; path = "UI project FED/FED_buttonwoman01.png"; sourceTree = SOURCE_ROOT; };
+		BE04B4FB185CC8AC0044FDEE /* FED_buttonwoman02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_buttonwoman02.png; path = "UI project FED/FED_buttonwoman02.png"; sourceTree = SOURCE_ROOT; };
+		BE04B4FC185CC8AC0044FDEE /* FED_splshScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_splshScreen.png; path = "UI project FED/FED_splshScreen.png"; sourceTree = SOURCE_ROOT; };
 		BE089198185B221300DB03D6 /* FED.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FED.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE08919B185B221300DB03D6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		BE08919D185B221300DB03D6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +91,19 @@
 		BE0891C2185B221300DB03D6 /* FEDTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FEDTests-Info.plist"; sourceTree = "<group>"; };
 		BE0891C4185B221300DB03D6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		BE0891C6185B221300DB03D6 /* FEDTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FEDTests.m; sourceTree = "<group>"; };
+		BE0891D0185B252100DB03D6 /* Dic Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Dic Controller.h"; sourceTree = "<group>"; };
+		BE0891D1185B252100DB03D6 /* Dic Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Dic Controller.m"; sourceTree = "<group>"; };
+		BE0891D6185B473800DB03D6 /* Add Food.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Add Food.h"; sourceTree = "<group>"; };
+		BE0891D7185B473800DB03D6 /* Add Food.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Add Food.m"; sourceTree = "<group>"; };
+		BE0891DB185B4FA800DB03D6 /* BG_Dic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BG_Dic.png; sourceTree = SOURCE_ROOT; };
+		BEA34EB3185D9FB8006BFDE9 /* FED_thermometerEDIT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_thermometerEDIT.png; path = "UI project FED/FED_thermometerEDIT.png"; sourceTree = SOURCE_ROOT; };
+		BEA34EB5185D9FC5006BFDE9 /* FED_buttonrandom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_buttonrandom.png; path = "UI project FED/FED_buttonrandom.png"; sourceTree = SOURCE_ROOT; };
+		BEA34EB6185D9FC5006BFDE9 /* FED_buttonTEXTplus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_buttonTEXTplus.png; path = "UI project FED/FED_buttonTEXTplus.png"; sourceTree = SOURCE_ROOT; };
+		BEA34EB9185D9FCF006BFDE9 /* FED_buttonplus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_buttonplus.png; path = "UI project FED/FED_buttonplus.png"; sourceTree = SOURCE_ROOT; };
+		BEA34EBB185D9FD8006BFDE9 /* FED_buttonEDIT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_buttonEDIT.png; path = "UI project FED/FED_buttonEDIT.png"; sourceTree = SOURCE_ROOT; };
+		BEA34EBD185D9FE4006BFDE9 /* FED_boxcal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_boxcal.png; path = "UI project FED/FED_boxcal.png"; sourceTree = SOURCE_ROOT; };
+		BEA34EBF185DA000006BFDE9 /* FED_bgdictionary.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_bgdictionary.png; path = "UI project FED/FED_bgdictionary.png"; sourceTree = SOURCE_ROOT; };
+		BEA34EC0185DA000006BFDE9 /* FED_bgPLUSpage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FED_bgPLUSpage.png; path = "UI project FED/FED_bgPLUSpage.png"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,10 +166,37 @@
 				BE0891AA185B221300DB03D6 /* AppDelegate.h */,
 				BE0891AB185B221300DB03D6 /* AppDelegate.m */,
 				BE0891AD185B221300DB03D6 /* Main.storyboard */,
-				BE0891B0185B221300DB03D6 /* ViewController.h */,
-				BE0891B1185B221300DB03D6 /* ViewController.m */,
 				BE0891B3185B221300DB03D6 /* Images.xcassets */,
 				BE0891A2185B221300DB03D6 /* Supporting Files */,
+				BE0891B0185B221300DB03D6 /* ViewController.h */,
+				BE0891B1185B221300DB03D6 /* ViewController.m */,
+				BE0891D0185B252100DB03D6 /* Dic Controller.h */,
+				BE0891D1185B252100DB03D6 /* Dic Controller.m */,
+				BE0891D6185B473800DB03D6 /* Add Food.h */,
+				BE0891D7185B473800DB03D6 /* Add Food.m */,
+				BE04B4EC185C82150044FDEE /* CustomTable.xib */,
+				BE04B4ED185C82150044FDEE /* CustomTableCell.h */,
+				BE04B4EE185C82150044FDEE /* CustomTableCell.m */,
+				BE0891DB185B4FA800DB03D6 /* BG_Dic.png */,
+				BE04B4F1185CC8AC0044FDEE /* FED_bg_AddFood.png */,
+				BE04B4F2185CC8AC0044FDEE /* FED_bg_Dic.png */,
+				BE04B4F3185CC8AC0044FDEE /* FED_bg01.png */,
+				BE04B4F5185CC8AC0044FDEE /* FED_buttonback.png */,
+				BE04B4F6185CC8AC0044FDEE /* FED_buttonman01.png */,
+				BE04B4F7185CC8AC0044FDEE /* FED_buttonman02.png */,
+				BE04B4F8185CC8AC0044FDEE /* FED_buttonplus01.png */,
+				BE04B4F9185CC8AC0044FDEE /* FED_buttonplus02.png */,
+				BE04B4FA185CC8AC0044FDEE /* FED_buttonwoman01.png */,
+				BE04B4FB185CC8AC0044FDEE /* FED_buttonwoman02.png */,
+				BE04B4FC185CC8AC0044FDEE /* FED_splshScreen.png */,
+				BEA34EB9185D9FCF006BFDE9 /* FED_buttonplus.png */,
+				BEA34EB5185D9FC5006BFDE9 /* FED_buttonrandom.png */,
+				BEA34EB6185D9FC5006BFDE9 /* FED_buttonTEXTplus.png */,
+				BEA34EB3185D9FB8006BFDE9 /* FED_thermometerEDIT.png */,
+				BEA34EBD185D9FE4006BFDE9 /* FED_boxcal.png */,
+				BEA34EBB185D9FD8006BFDE9 /* FED_buttonEDIT.png */,
+				BEA34EBF185DA000006BFDE9 /* FED_bgdictionary.png */,
+				BEA34EC0185DA000006BFDE9 /* FED_bgPLUSpage.png */,
 			);
 			path = FED;
 			sourceTree = "<group>";
@@ -228,9 +306,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BEA34EBE185D9FE4006BFDE9 /* FED_boxcal.png in Resources */,
+				BE04B506185CC8AC0044FDEE /* FED_buttonwoman01.png in Resources */,
+				BEA34EBC185D9FD8006BFDE9 /* FED_buttonEDIT.png in Resources */,
+				BEA34EBA185D9FCF006BFDE9 /* FED_buttonplus.png in Resources */,
+				BEA34EB7185D9FC5006BFDE9 /* FED_buttonrandom.png in Resources */,
 				BE0891B4185B221300DB03D6 /* Images.xcassets in Resources */,
+				BE04B502185CC8AC0044FDEE /* FED_buttonman01.png in Resources */,
+				BE04B501185CC8AC0044FDEE /* FED_buttonback.png in Resources */,
+				BE04B503185CC8AC0044FDEE /* FED_buttonman02.png in Resources */,
+				BE04B505185CC8AC0044FDEE /* FED_buttonplus02.png in Resources */,
+				BE04B4EF185C82150044FDEE /* CustomTable.xib in Resources */,
+				BE04B504185CC8AC0044FDEE /* FED_buttonplus01.png in Resources */,
+				BE04B4FD185CC8AC0044FDEE /* FED_bg_AddFood.png in Resources */,
+				BE04B4FE185CC8AC0044FDEE /* FED_bg_Dic.png in Resources */,
 				BE0891A6185B221300DB03D6 /* InfoPlist.strings in Resources */,
+				BE04B507185CC8AC0044FDEE /* FED_buttonwoman02.png in Resources */,
+				BE04B4FF185CC8AC0044FDEE /* FED_bg01.png in Resources */,
+				BEA34EC2185DA000006BFDE9 /* FED_bgPLUSpage.png in Resources */,
+				BE04B508185CC8AC0044FDEE /* FED_splshScreen.png in Resources */,
+				BEA34EC1185DA000006BFDE9 /* FED_bgdictionary.png in Resources */,
+				BEA34EB8185D9FC5006BFDE9 /* FED_buttonTEXTplus.png in Resources */,
+				BEA34EB4185D9FB8006BFDE9 /* FED_thermometerEDIT.png in Resources */,
 				BE0891AF185B221300DB03D6 /* Main.storyboard in Resources */,
+				BE0891DC185B4FA800DB03D6 /* BG_Dic.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +351,9 @@
 				BE0891B2185B221300DB03D6 /* ViewController.m in Sources */,
 				BE0891AC185B221300DB03D6 /* AppDelegate.m in Sources */,
 				BE0891A8185B221300DB03D6 /* main.m in Sources */,
+				BE0891D2185B252100DB03D6 /* Dic Controller.m in Sources */,
+				BE0891D8185B473800DB03D6 /* Add Food.m in Sources */,
+				BE04B4F0185C82150044FDEE /* CustomTableCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -460,6 +562,7 @@
 				BE0891CC185B221300DB03D6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BE0891CD185B221300DB03D6 /* Build configuration list for PBXNativeTarget "FEDTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +571,7 @@
 				BE0891CF185B221300DB03D6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
